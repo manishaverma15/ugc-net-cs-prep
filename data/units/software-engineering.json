@@ -1,0 +1,80 @@
+{
+  "slug": "software-engineering",
+  "title": "Software Engineering",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "se-2018",
+      "year": "2018",
+      "prompt": "Which model is known for sequential development phases?",
+      "options": ["Agile", "Waterfall", "Spiral", "Prototype"],
+      "answer": "Waterfall",
+      "explanation": "The waterfall model follows a linear sequence of phases such as requirement, design, implementation, testing, and maintenance."
+    },
+    {
+      "id": "se-2019",
+      "year": "2019",
+      "prompt": "Requirement engineering mainly deals with:",
+      "options": ["Coding", "Testing", "Understanding and documenting user needs", "Deployment"],
+      "answer": "Understanding and documenting user needs",
+      "explanation": "Requirement engineering focuses on collecting and defining system requirements."
+    },
+    {
+      "id": "se-2020",
+      "year": "2020",
+      "prompt": "Which testing method tests individual units of code?",
+      "options": ["System testing", "Integration testing", "Unit testing", "Acceptance testing"],
+      "answer": "Unit testing",
+      "explanation": "Unit testing checks the smallest testable parts of a software system."
+    },
+    {
+      "id": "se-2021",
+      "year": "2021",
+      "prompt": "Coupling in software design refers to:",
+      "options": ["How well modules work independently", "The degree of interdependence between modules", "The number of modules", "The size of the code"],
+      "answer": "The degree of interdependence between modules",
+      "explanation": "Coupling measures how closely connected software modules are."
+    },
+    {
+      "id": "se-2022",
+      "year": "2022",
+      "prompt": "Agile development emphasizes:",
+      "options": ["Long documentation", "Rigid sequential phases", "Frequent feedback and iteration", "No customer involvement"],
+      "answer": "Frequent feedback and iteration",
+      "explanation": "Agile methods focus on iterative development and continuous feedback."
+    },
+    {
+      "id": "se-2023",
+      "year": "2023",
+      "prompt": "Cohesion is a measure of:",
+      "options": ["Module independence", "Relatedness of elements in a module", "Testing effort", "Runtime performance"],
+      "answer": "Relatedness of elements in a module",
+      "explanation": "High cohesion means the elements inside a module are closely related."
+    },
+    {
+      "id": "se-2024",
+      "year": "2024",
+      "prompt": "Which phase follows coding in the waterfall model?",
+      "options": ["Design", "Testing", "Requirements", "Maintenance"],
+      "answer": "Testing",
+      "explanation": "In the waterfall model, testing follows implementation."
+    },
+    {
+      "id": "se-2025",
+      "year": "2025",
+      "prompt": "A software prototype is mainly used to:",
+      "options": ["Replace documentation", "Gather early feedback and clarify requirements", "Reduce testing time", "Increase coupling"],
+      "answer": "Gather early feedback and clarify requirements",
+      "explanation": "Prototyping helps stakeholders understand and refine requirements early."
+    },
+    {
+      "id": "se-2026",
+      "year": "2026",
+      "prompt": "Maintenance in software engineering includes:",
+      "options": ["Only bug fixing", "Only new feature addition", "Corrective, adaptive, perfective, and preventive work", "Only documentation"],
+      "answer": "Corrective, adaptive, perfective, and preventive work",
+      "explanation": "Maintenance covers a range of activities after deployment to keep software useful and reliable."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "computer-networks",
+  "title": "Computer Networks",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "cn-2018",
+      "year": "2018",
+      "prompt": "Which protocol is used to transfer web pages over the internet?",
+      "options": ["SMTP", "FTP", "HTTP", "DNS"],
+      "answer": "HTTP",
+      "explanation": "HTTP is the protocol used for retrieving web pages from servers."
+    },
+    {
+      "id": "cn-2019",
+      "year": "2019",
+      "prompt": "The IP address is used for:",
+      "options": ["Routing packets", "Formatting emails", "Rendering webpages", "Translating domains"],
+      "answer": "Routing packets",
+      "explanation": "IP provides the addressing and routing mechanism for packets on a network."
+    },
+    {
+      "id": "cn-2020",
+      "year": "2020",
+      "prompt": "Which layer of the OSI model is responsible for end-to-end delivery?",
+      "options": ["Data Link", "Transport", "Network", "Physical"],
+      "answer": "Transport",
+      "explanation": "The transport layer ensures reliable end-to-end delivery between applications."
+    },
+    {
+      "id": "cn-2021",
+      "year": "2021",
+      "prompt": "DNS is used to:",
+      "options": ["Resolve hostnames to IP addresses", "Encrypt data", "Route packets", "Assign MAC addresses"],
+      "answer": "Resolve hostnames to IP addresses",
+      "explanation": "DNS translates human-readable domain names into IP addresses."
+    },
+    {
+      "id": "cn-2022",
+      "year": "2022",
+      "prompt": "A switch operates mainly at the:",
+      "options": ["Physical layer", "Data Link layer", "Transport layer", "Application layer"],
+      "answer": "Data Link layer",
+      "explanation": "Switches forward frames based on MAC addresses at the data link layer."
+    },
+    {
+      "id": "cn-2023",
+      "year": "2023",
+      "prompt": "Which protocol provides secure remote login?",
+      "options": ["FTP", "HTTP", "SSH", "SMTP"],
+      "answer": "SSH",
+      "explanation": "SSH provides encrypted remote access to systems."
+    },
+    {
+      "id": "cn-2024",
+      "year": "2024",
+      "prompt": "The main purpose of a router is to:",
+      "options": ["Connect devices within a single LAN", "Forward packets between networks", "Convert analog signals to digital", "Store web pages"],
+      "answer": "Forward packets between networks",
+      "explanation": "Routers forward data between different networks based on routing information."
+    },
+    {
+      "id": "cn-2025",
+      "year": "2025",
+      "prompt": "Which of the following is a private IP address range?",
+      "options": ["8.8.8.8", "172.16.0.1", "1.1.1.1", "9.9.9.9"],
+      "answer": "172.16.0.1",
+      "explanation": "172.16.0.0/12 is a private IP address range."
+    },
+    {
+      "id": "cn-2026",
+      "year": "2026",
+      "prompt": "TCP is preferred over UDP when:",
+      "options": ["Speed is more important than reliability", "Reliability and ordered delivery are required", "No connection is needed", "Broadcasting is needed"],
+      "answer": "Reliability and ordered delivery are required",
+      "explanation": "TCP provides reliable, ordered, connection-oriented communication."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "programming-languages",
+  "title": "Programming Languages",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "pl-2018",
+      "year": "2018",
+      "prompt": "Which of the following is a high-level programming language?",
+      "options": ["Assembly", "Machine code", "C", "Microcode"],
+      "answer": "C",
+      "explanation": "C is a high-level language that is closer to human-readable syntax than machine code."
+    },
+    {
+      "id": "pl-2019",
+      "year": "2019",
+      "prompt": "A language that supports inheritance is usually:",
+      "options": ["Procedural", "Functional", "Object-oriented", "Logic-based"],
+      "answer": "Object-oriented",
+      "explanation": "Inheritance is a core feature of object-oriented programming."
+    },
+    {
+      "id": "pl-2020",
+      "year": "2020",
+      "prompt": "Which parameter passing mechanism copies the value of the argument?",
+      "options": ["Call by reference", "Call by name", "Call by value", "Call by result"],
+      "answer": "Call by value",
+      "explanation": "Call by value passes a copy of the argument to the function."
+    },
+    {
+      "id": "pl-2021",
+      "year": "2021",
+      "prompt": "Which of the following is a functional programming language?",
+      "options": ["C", "Fortran", "Haskell", "Pascal"],
+      "answer": "Haskell",
+      "explanation": "Haskell is a purely functional programming language."
+    },
+    {
+      "id": "pl-2022",
+      "year": "2022",
+      "prompt": "Garbage collection is mainly used to:",
+      "options": ["Increase execution speed", "Manage memory automatically", "Compile code faster", "Optimize loops"],
+      "answer": "Manage memory automatically",
+      "explanation": "Garbage collection reclaims memory that is no longer in use."
+    },
+    {
+      "id": "pl-2023",
+      "year": "2023",
+      "prompt": "Which of the following is a dynamically typed language?",
+      "options": ["C", "C++", "Java", "Python"],
+      "answer": "Python",
+      "explanation": "Python determines variable types at runtime instead of compile time."
+    },
+    {
+      "id": "pl-2024",
+      "year": "2024",
+      "prompt": "Polymorphism in OOP means:",
+      "options": ["One interface, many forms", "Only one class", "No inheritance", "Static memory allocation"],
+      "answer": "One interface, many forms",
+      "explanation": "Polymorphism allows the same interface to be used for different underlying types."
+    },
+    {
+      "id": "pl-2025",
+      "year": "2025",
+      "prompt": "In recursion, the base case is used to:",
+      "options": ["Increase complexity", "Stop further recursion", "Avoid loops", "Create classes"],
+      "answer": "Stop further recursion",
+      "explanation": "A base case terminates the recursive calls."
+    },
+    {
+      "id": "pl-2026",
+      "year": "2026",
+      "prompt": "Which of the following is NOT a feature of object-oriented programming?",
+      "options": ["Encapsulation", "Inheritance", "Polymorphism", "Pointer arithmetic"],
+      "answer": "Pointer arithmetic",
+      "explanation": "Pointer arithmetic is a low-level feature rather than an OOP concept."
+    }
+  ]
+}

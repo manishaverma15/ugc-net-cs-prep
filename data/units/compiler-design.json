@@ -1,0 +1,80 @@
+{
+  "slug": "compiler-design",
+  "title": "Compiler Design",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "cd-2018",
+      "year": "2018",
+      "prompt": "Which phase of a compiler checks for syntax errors?",
+      "options": ["Semantic analysis", "Lexical analysis", "Syntactic analysis", "Code generation"],
+      "answer": "Syntactic analysis",
+      "explanation": "Syntax analysis verifies whether the source code follows the grammar of the language."
+    },
+    {
+      "id": "cd-2019",
+      "year": "2019",
+      "prompt": "The output of the lexical analyzer is called:",
+      "options": ["Tokens", "Syntax tree", "Intermediate code", "Object code"],
+      "answer": "Tokens",
+      "explanation": "A lexical analyzer groups characters into meaningful units known as tokens."
+    },
+    {
+      "id": "cd-2020",
+      "year": "2020",
+      "prompt": "Which of the following is a type of intermediate representation?",
+      "options": ["Assembly code", "Three-address code", "Machine code", "Binary code"],
+      "answer": "Three-address code",
+      "explanation": "Three-address code is a common intermediate representation used in optimization and code generation."
+    },
+    {
+      "id": "cd-2021",
+      "year": "2021",
+      "prompt": "A parser is responsible for:",
+      "options": ["Generating machine code", "Checking grammatical structure", "Removing comments", "Allocating registers"],
+      "answer": "Checking grammatical structure",
+      "explanation": "A parser checks whether the token sequence follows the grammar of the language."
+    },
+    {
+      "id": "cd-2022",
+      "year": "2022",
+      "prompt": "Which optimization technique replaces expensive operations by cheaper ones?",
+      "options": ["Constant folding", "Lexing", "Parsing", "Tokenization"],
+      "answer": "Constant folding",
+      "explanation": "Constant folding evaluates expressions at compile time to reduce runtime cost."
+    },
+    {
+      "id": "cd-2023",
+      "year": "2023",
+      "prompt": "The process of assigning runtime locations to variables is called:",
+      "options": ["Parsing", "Code generation", "Storage allocation", "Lexing"],
+      "answer": "Storage allocation",
+      "explanation": "Storage allocation determines where variables and temporaries are stored during execution."
+    },
+    {
+      "id": "cd-2024",
+      "year": "2024",
+      "prompt": "Which of the following is NOT a phase of a compiler?",
+      "options": ["Lexical analysis", "Syntax analysis", "Execution", "Code optimization"],
+      "answer": "Execution",
+      "explanation": "Execution is part of the runtime system, not a compiler phase."
+    },
+    {
+      "id": "cd-2025",
+      "year": "2025",
+      "prompt": "A symbol table is used for:",
+      "options": ["Storing source code", "Managing identifiers and attributes", "Generating assembly code", "Removing syntax errors"],
+      "answer": "Managing identifiers and attributes",
+      "explanation": "The symbol table holds information about identifiers such as type, scope, and memory location."
+    },
+    {
+      "id": "cd-2026",
+      "year": "2026",
+      "prompt": "Which phase is responsible for converting intermediate code into target machine code?",
+      "options": ["Semantic analysis", "Code generation", "Parsing", "Lexical analysis"],
+      "answer": "Code generation",
+      "explanation": "Code generation translates the intermediate representation into the target language."
+    }
+  ]
+}

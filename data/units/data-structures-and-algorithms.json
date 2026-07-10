@@ -1,0 +1,80 @@
+{
+  "slug": "data-structures-and-algorithms",
+  "title": "Data Structures and Algorithms",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "dsa-2018",
+      "year": "2018",
+      "prompt": "Which data structure uses LIFO order?",
+      "options": ["Queue", "Stack", "Linked List", "Tree"],
+      "answer": "Stack",
+      "explanation": "A stack follows the last-in-first-out principle."
+    },
+    {
+      "id": "dsa-2019",
+      "year": "2019",
+      "prompt": "A queue is suitable for:",
+      "options": ["Depth-first traversal", "Breadth-first traversal", "Recursion", "Sorting"],
+      "answer": "Breadth-first traversal",
+      "explanation": "A queue processes elements in FIFO order, which fits breadth-first traversal."
+    },
+    {
+      "id": "dsa-2020",
+      "year": "2020",
+      "prompt": "The time complexity of binary search is:",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+      "answer": "O(log n)",
+      "explanation": "Binary search halves the search space at each step."
+    },
+    {
+      "id": "dsa-2021",
+      "year": "2021",
+      "prompt": "Which traversal visits a binary tree root before its children?",
+      "options": ["Inorder", "Postorder", "Preorder", "Level order"],
+      "answer": "Preorder",
+      "explanation": "Preorder visits the root first, then the left and right subtrees."
+    },
+    {
+      "id": "dsa-2022",
+      "year": "2022",
+      "prompt": "Which sorting algorithm has the best average-case time complexity?",
+      "options": ["Bubble sort", "Insertion sort", "Quick sort", "Selection sort"],
+      "answer": "Quick sort",
+      "explanation": "Quick sort has average-case O(n log n) complexity."
+    },
+    {
+      "id": "dsa-2023",
+      "year": "2023",
+      "prompt": "A linked list is preferred over an array when:",
+      "options": ["Random access is needed", "Memory is contiguous", "Dynamic insertion and deletion are needed", "Data size is fixed"],
+      "answer": "Dynamic insertion and deletion are needed",
+      "explanation": "Linked lists allow efficient insertion and deletion without shifting elements."
+    },
+    {
+      "id": "dsa-2024",
+      "year": "2024",
+      "prompt": "The height of a complete binary tree with n nodes is approximately:",
+      "options": ["n", "log2 n", "n^2", "2n"],
+      "answer": "log2 n",
+      "explanation": "A complete binary tree has height proportional to the logarithm of the number of nodes."
+    },
+    {
+      "id": "dsa-2025",
+      "year": "2025",
+      "prompt": "Which algorithm uses a priority queue?",
+      "options": ["Bubble sort", "Dijkstra's algorithm", "Linear search", "Selection sort"],
+      "answer": "Dijkstra's algorithm",
+      "explanation": "Dijkstra's algorithm uses a priority queue to select the next smallest path."
+    },
+    {
+      "id": "dsa-2026",
+      "year": "2026",
+      "prompt": "DFS is typically implemented using:",
+      "options": ["A queue", "A stack", "A heap", "A hash table"],
+      "answer": "A stack",
+      "explanation": "Depth-first search is commonly implemented with a stack or recursion."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "discrete-structures-and-optimization",
+  "title": "Discrete Structures and Optimization",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "dso-2018",
+      "year": "2018",
+      "prompt": "Which of the following is a proposition?",
+      "options": ["x + 3 = 5", "What time is it?", "2 is a prime number", "Close the door"],
+      "answer": "2 is a prime number",
+      "explanation": "A proposition is a declarative statement that is either true or false."
+    },
+    {
+      "id": "dso-2019",
+      "year": "2019",
+      "prompt": "If A and B are sets and A ∩ B = A, then which statement is true?",
+      "options": ["A ⊂ B", "B ⊂ A", "A = B", "A ∩ B = ∅"],
+      "answer": "A ⊂ B",
+      "explanation": "If the intersection of A and B equals A, then every element of A is also in B, so A is a subset of B."
+    },
+    {
+      "id": "dso-2020",
+      "year": "2020",
+      "prompt": "The number of edges in a complete graph with n vertices is:",
+      "options": ["n", "n(n - 1)/2", "2n", "n^2"],
+      "answer": "n(n - 1)/2",
+      "explanation": "A complete graph has one edge between every pair of vertices."
+    },
+    {
+      "id": "dso-2021",
+      "year": "2021",
+      "prompt": "Which of the following is a tautology?",
+      "options": ["p ∧ ¬p", "p ∨ ¬p", "p ∧ q", "p → ¬p"],
+      "answer": "p ∨ ¬p",
+      "explanation": "The law of excluded middle states that a statement or its negation must be true."
+    },
+    {
+      "id": "dso-2022",
+      "year": "2022",
+      "prompt": "The relation R on a set is antisymmetric if:",
+      "options": ["(a, b) ∈ R and (b, a) ∈ R ⇒ a = b", "(a, a) ∈ R for all a", "R is reflexive and symmetric", "R is transitive"],
+      "answer": "(a, b) ∈ R and (b, a) ∈ R ⇒ a = b",
+      "explanation": "Antisymmetry forbids two distinct elements from being mutually related."
+    },
+    {
+      "id": "dso-2023",
+      "year": "2023",
+      "prompt": "The recurrence T(n) = 2T(n/2) + n has solution:",
+      "options": ["O(log n)", "O(n)", "O(n log n)", "O(n^2)"],
+      "answer": "O(n log n)",
+      "explanation": "This is the standard divide-and-conquer recurrence with a linear cost at each level."
+    },
+    {
+      "id": "dso-2024",
+      "year": "2024",
+      "prompt": "In a connected undirected graph, a spanning tree contains:",
+      "options": ["All vertices and all edges", "All vertices and n - 1 edges", "Only one vertex", "No edges"],
+      "answer": "All vertices and n - 1 edges",
+      "explanation": "A spanning tree connects all vertices with the minimum possible number of edges."
+    },
+    {
+      "id": "dso-2025",
+      "year": "2025",
+      "prompt": "The number of possible binary relations on a set of n elements is:",
+      "options": ["2^n", "n^2", "2^(n^2)", "n!"],
+      "answer": "2^(n^2)",
+      "explanation": "A binary relation is a subset of the Cartesian product A × A, which has n^2 pairs."
+    },
+    {
+      "id": "dso-2026",
+      "year": "2026",
+      "prompt": "Which of the following is true for a bipartite graph?",
+      "options": ["It contains an odd cycle", "It can be colored with two colors", "It is always complete", "It has no edges"],
+      "answer": "It can be colored with two colors",
+      "explanation": "A bipartite graph has vertices partitioned into two sets such that every edge joins a vertex from each set."
+    }
+  ]
+}

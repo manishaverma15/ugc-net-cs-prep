@@ -1,0 +1,80 @@
+{
+  "slug": "computer-system-architecture",
+  "title": "Computer System Architecture",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "csa-2018",
+      "year": "2018",
+      "prompt": "Which component of the CPU performs arithmetic and logical operations?",
+      "options": ["Control Unit", "ALU", "Cache", "Register"],
+      "answer": "ALU",
+      "explanation": "The arithmetic logic unit is responsible for arithmetic and logical computations."
+    },
+    {
+      "id": "csa-2019",
+      "year": "2019",
+      "prompt": "The instruction cycle consists of:",
+      "options": ["Fetch only", "Decode only", "Fetch and execute", "Store only"],
+      "answer": "Fetch and execute",
+      "explanation": "A basic instruction cycle involves fetching an instruction and executing it."
+    },
+    {
+      "id": "csa-2020",
+      "year": "2020",
+      "prompt": "Which memory is fastest among the following?",
+      "options": ["RAM", "Cache", "Hard disk", "Registers"],
+      "answer": "Registers",
+      "explanation": "Registers are built into the CPU and are the fastest storage locations."
+    },
+    {
+      "id": "csa-2021",
+      "year": "2021",
+      "prompt": "Pipelining improves performance by:",
+      "options": ["Reducing clock speed", "Executing one instruction at a time", "Overlapping instruction stages", "Increasing memory size"],
+      "answer": "Overlapping instruction stages",
+      "explanation": "Pipelining allows multiple instruction stages to proceed concurrently."
+    },
+    {
+      "id": "csa-2022",
+      "year": "2022",
+      "prompt": "Which addressing mode uses the address stored in a register?",
+      "options": ["Immediate", "Direct", "Register indirect", "Indexed"],
+      "answer": "Register indirect",
+      "explanation": "Register indirect addressing uses a register that contains the effective address."
+    },
+    {
+      "id": "csa-2023",
+      "year": "2023",
+      "prompt": "Cache memory is placed between:",
+      "options": ["CPU and hard disk", "CPU and RAM", "RAM and ROM", "Input and output"],
+      "answer": "CPU and RAM",
+      "explanation": "Cache sits between the CPU and main memory to reduce access time."
+    },
+    {
+      "id": "csa-2024",
+      "year": "2024",
+      "prompt": "An interrupt is a signal that:",
+      "options": ["Stops the computer permanently", "Requests CPU attention", "Clears memory", "Loads the OS"],
+      "answer": "Requests CPU attention",
+      "explanation": "Interrupts notify the processor that an event needs immediate handling."
+    },
+    {
+      "id": "csa-2025",
+      "year": "2025",
+      "prompt": "The primary purpose of a control unit is to:",
+      "options": ["Store data", "Perform arithmetic", "Coordinate instruction execution", "Increase bus width"],
+      "answer": "Coordinate instruction execution",
+      "explanation": "The control unit directs the operation of the processor and other components."
+    },
+    {
+      "id": "csa-2026",
+      "year": "2026",
+      "prompt": "A microprogrammed control unit uses:",
+      "options": ["Hardwired logic only", "Firmware stored as microinstructions", "Only registers", "No control signals"],
+      "answer": "Firmware stored as microinstructions",
+      "explanation": "Microprogrammed control stores control logic as microinstructions in control memory."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "theory-of-computation",
+  "title": "Theory of Computation",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "toc-2018",
+      "year": "2018",
+      "prompt": "Which machine recognizes regular languages?",
+      "options": ["Turing machine", "Pushdown automaton", "Finite automaton", "Linear bounded automaton"],
+      "answer": "Finite automaton",
+      "explanation": "Finite automata recognize regular languages."
+    },
+    {
+      "id": "toc-2019",
+      "year": "2019",
+      "prompt": "A context-free grammar generates:",
+      "options": ["Regular languages", "Context-free languages", "Recursive languages", "Finite languages"],
+      "answer": "Context-free languages",
+      "explanation": "Context-free grammars generate context-free languages."
+    },
+    {
+      "id": "toc-2020",
+      "year": "2020",
+      "prompt": "A pushdown automaton is more powerful than a finite automaton because it has:",
+      "options": ["More states", "An infinite tape", "A stack", "Multiple heads"],
+      "answer": "A stack",
+      "explanation": "The stack allows a PDA to remember unbounded information."
+    },
+    {
+      "id": "toc-2021",
+      "year": "2021",
+      "prompt": "A Turing machine can simulate:",
+      "options": ["Only regular languages", "Only context-free languages", "Any computable function", "Only finite automata"],
+      "answer": "Any computable function",
+      "explanation": "A Turing machine is a general model of computation."
+    },
+    {
+      "id": "toc-2022",
+      "year": "2022",
+      "prompt": "The set of all strings that are not accepted by a Turing machine is:",
+      "options": ["Always recursive", "Always context-free", "Undecidable in general", "Always regular"],
+      "answer": "Undecidable in general",
+      "explanation": "The halting problem shows that some properties of Turing machines are undecidable."
+    },
+    {
+      "id": "toc-2023",
+      "year": "2023",
+      "prompt": "Which of the following is true for regular languages?",
+      "options": ["They are closed under complementation", "They are not closed under union", "They are not closed under concatenation", "They cannot be recognized by automata"],
+      "answer": "They are closed under complementation",
+      "explanation": "Regular languages are closed under union, intersection, concatenation, and complementation."
+    },
+    {
+      "id": "toc-2024",
+      "year": "2024",
+      "prompt": "A nondeterministic finite automaton can be converted to:",
+      "options": ["A deterministic finite automaton", "A Turing machine", "A context-sensitive grammar", "A regular expression only"],
+      "answer": "A deterministic finite automaton",
+      "explanation": "Every NFA has an equivalent DFA."
+    },
+    {
+      "id": "toc-2025",
+      "year": "2025",
+      "prompt": "Which class of languages is accepted by a linear-bounded automaton?",
+      "options": ["Regular", "Context-free", "Context-sensitive", "Finite"],
+      "answer": "Context-sensitive",
+      "explanation": "Linear-bounded automata recognize context-sensitive languages."
+    },
+    {
+      "id": "toc-2026",
+      "year": "2026",
+      "prompt": "The pumping lemma is used to show that a language is:",
+      "options": ["Regular", "Context-free", "Not regular or not context-free", "Deterministic"],
+      "answer": "Not regular or not context-free",
+      "explanation": "The pumping lemma helps prove that certain languages are not regular or not context-free."
+    }
+  ]
+}

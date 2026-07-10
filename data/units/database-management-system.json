@@ -1,0 +1,80 @@
+{
+  "slug": "database-management-system",
+  "title": "Database Management System",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "dbms-2018",
+      "year": "2018",
+      "prompt": "Which key uniquely identifies a row in a table?",
+      "options": ["Foreign key", "Candidate key", "Primary key", "Alternate key"],
+      "answer": "Primary key",
+      "explanation": "A primary key uniquely identifies each row in a database table."
+    },
+    {
+      "id": "dbms-2019",
+      "year": "2019",
+      "prompt": "A relation in 1NF must have:",
+      "options": ["No repeating groups", "No primary key", "Only one column", "No foreign keys"],
+      "answer": "No repeating groups",
+      "explanation": "First normal form eliminates repeating groups and keeps each column atomic."
+    },
+    {
+      "id": "dbms-2020",
+      "year": "2020",
+      "prompt": "Which operation combines rows from two tables based on a common condition?",
+      "options": ["SELECT", "UNION", "JOIN", "PROJECT"],
+      "answer": "JOIN",
+      "explanation": "A join combines rows from multiple tables using a related condition."
+    },
+    {
+      "id": "dbms-2021",
+      "year": "2021",
+      "prompt": "A foreign key is used to:",
+      "options": ["Create a unique index", "Establish a relationship between tables", "Sort rows", "Delete duplicates"],
+      "answer": "Establish a relationship between tables",
+      "explanation": "A foreign key links a column in one table to a primary key in another table."
+    },
+    {
+      "id": "dbms-2022",
+      "year": "2022",
+      "prompt": "Which of the following is a DDL command?",
+      "options": ["SELECT", "UPDATE", "CREATE", "INSERT"],
+      "answer": "CREATE",
+      "explanation": "CREATE is a data definition language command used to define database objects."
+    },
+    {
+      "id": "dbms-2023",
+      "year": "2023",
+      "prompt": "Normalization is mainly used to:",
+      "options": ["Increase redundancy", "Reduce data redundancy", "Speed up network traffic", "Remove indexes"],
+      "answer": "Reduce data redundancy",
+      "explanation": "Normalization organizes data to avoid unnecessary duplication and anomalies."
+    },
+    {
+      "id": "dbms-2024",
+      "year": "2024",
+      "prompt": "Which SQL clause is used to filter rows after grouping?",
+      "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+      "answer": "HAVING",
+      "explanation": "HAVING filters grouped rows after aggregate operations."
+    },
+    {
+      "id": "dbms-2025",
+      "year": "2025",
+      "prompt": "A transaction is atomic if:",
+      "options": ["It runs in parallel", "It is executed partially", "It is completed fully or not at all", "It is stored permanently"],
+      "answer": "It is completed fully or not at all",
+      "explanation": "Atomicity ensures all operations of a transaction are treated as a single unit."
+    },
+    {
+      "id": "dbms-2026",
+      "year": "2026",
+      "prompt": "Which of the following is a candidate key?",
+      "options": ["A non-unique attribute", "A superkey that is minimal", "A foreign key", "An index"],
+      "answer": "A superkey that is minimal",
+      "explanation": "A candidate key is a minimal superkey that can uniquely identify a row."
+    }
+  ]
+}

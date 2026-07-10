@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mock-paper-1",
+    "title": "Mock Paper 1",
+    "description": "A full-length practice paper covering core Computer Science units.",
+    "questions": [
+      {
+        "id": "mp1-q1",
+        "prompt": "Which of the following is a valid data structure operation on a stack?",
+        "options": ["Enqueue", "Dequeue", "Push", "Sort"],
+        "answer": "Push",
+        "explanation": "A stack supports push and pop operations."
+      },
+      {
+        "id": "mp1-q2",
+        "prompt": "The process of finding and fixing bugs in software is called:",
+        "options": ["Testing", "Debugging", "Designing", "Documenting"],
+        "answer": "Debugging",
+        "explanation": "Debugging is the process of identifying and correcting defects."
+      },
+      {
+        "id": "mp1-q3",
+        "prompt": "Which protocol is used for secure remote login?",
+        "options": ["FTP", "HTTP", "SSH", "SMTP"],
+        "answer": "SSH",
+        "explanation": "SSH provides encrypted remote access to a system."
+      },
+      {
+        "id": "mp1-q4",
+        "prompt": "A database transaction is atomic if:",
+        "options": ["It uses a primary key", "It runs only once", "It completes fully or not at all", "It is indexed"],
+        "answer": "It completes fully or not at all",
+        "explanation": "Atomicity ensures a transaction is treated as a single unit."
+      },
+      {
+        "id": "mp1-q5",
+        "prompt": "Which component of the CPU performs arithmetic and logical operations?",
+        "options": ["Control unit", "ALU", "Cache", "Register"],
+        "answer": "ALU",
+        "explanation": "The ALU handles arithmetic and logical computations."
+      }
+    ]
+  },
+  {
+    "id": "mock-paper-2",
+    "title": "Mock Paper 2",
+    "description": "A second full-length mock paper with mixed conceptual MCQs.",
+    "questions": [
+      {
+        "id": "mp2-q1",
+        "prompt": "Which of the following is a scheduling algorithm?",
+        "options": ["Round Robin", "Binary Search", "Hashing", "Traversal"],
+        "answer": "Round Robin",
+        "explanation": "Round Robin is a CPU scheduling algorithm."
+      },
+      {
+        "id": "mp2-q2",
+        "prompt": "The output of the lexical analyzer is:",
+        "options": ["Machine code", "Tokens", "Syntax tree", "Object code"],
+        "answer": "Tokens",
+        "explanation": "Lexical analysis converts source text into tokens."
+      },
+      {
+        "id": "mp2-q3",
+        "prompt": "Which of the following is a private IP address range?",
+        "options": ["8.8.8.8", "1.1.1.1", "172.16.0.1", "9.9.9.9"],
+        "answer": "172.16.0.1",
+        "explanation": "172.16.0.0/12 is a private address range."
+      },
+      {
+        "id": "mp2-q4",
+        "prompt": "A finite automaton recognizes:",
+        "options": ["Context-sensitive languages", "Context-free languages", "Regular languages", "Recursive languages"],
+        "answer": "Regular languages",
+        "explanation": "Finite automata are used to recognize regular languages."
+      },
+      {
+        "id": "mp2-q5",
+        "prompt": "Which of the following improves performance by overlapping instruction stages?",
+        "options": ["Pipelining", "Compaction", "Fragmentation", "Buffering"],
+        "answer": "Pipelining",
+        "explanation": "Pipelining overlaps instruction execution stages to improve throughput."
+      }
+    ]
+  }
+]

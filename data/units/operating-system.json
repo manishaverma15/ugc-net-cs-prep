@@ -1,0 +1,80 @@
+{
+  "slug": "operating-system",
+  "title": "Operating System",
+  "description": "Practice year-wise MCQs from 2018 to 2026 with explanations and answer review.",
+  "sourceUrl": "https://www.ugcnetonline.in/previous_question_papers.php",
+  "questions": [
+    {
+      "id": "os-2018",
+      "year": "2018",
+      "prompt": "Which scheduling algorithm may starve long jobs?",
+      "options": ["Round Robin", "FCFS", "Shortest Job First", "Priority Scheduling"],
+      "answer": "Shortest Job First",
+      "explanation": "Shortest Job First can favor short jobs and delay longer ones indefinitely."
+    },
+    {
+      "id": "os-2019",
+      "year": "2019",
+      "prompt": "A process state after it has completed execution is:",
+      "options": ["Ready", "Blocked", "Running", "Terminated"],
+      "answer": "Terminated",
+      "explanation": "A terminated process has finished execution and is no longer runnable."
+    },
+    {
+      "id": "os-2020",
+      "year": "2020",
+      "prompt": "The kernel of an operating system is responsible for:",
+      "options": ["User interface design", "Managing system resources", "Running application code only", "Formatting disks"],
+      "answer": "Managing system resources",
+      "explanation": "The kernel manages CPU, memory, devices, and process scheduling."
+    },
+    {
+      "id": "os-2021",
+      "year": "2021",
+      "prompt": "Deadlock occurs when:",
+      "options": ["Processes terminate normally", "A process waits indefinitely for resources", "CPU utilization is high", "Memory is freed"],
+      "answer": "A process waits indefinitely for resources",
+      "explanation": "Deadlock is a state where processes are stuck waiting for each other."
+    },
+    {
+      "id": "os-2022",
+      "year": "2022",
+      "prompt": "Which memory management technique allows non-contiguous allocation?",
+      "options": ["Contiguous allocation", "Paging", "Fixed partitioning", "Sequential allocation"],
+      "answer": "Paging",
+      "explanation": "Paging divides memory into fixed-size pages and allows non-contiguous allocation."
+    },
+    {
+      "id": "os-2023",
+      "year": "2023",
+      "prompt": "Round Robin scheduling uses:",
+      "options": ["Dynamic priority", "A time slice", "Longest jobs first", "No preemption"],
+      "answer": "A time slice",
+      "explanation": "Round Robin allocates each process a fixed time quantum in cyclic order."
+    },
+    {
+      "id": "os-2024",
+      "year": "2024",
+      "prompt": "A semaphore is used for:",
+      "options": ["File compression", "Process synchronization", "Disk formatting", "Memory compaction"],
+      "answer": "Process synchronization",
+      "explanation": "Semaphores are synchronization primitives used to coordinate concurrent processes."
+    },
+    {
+      "id": "os-2025",
+      "year": "2025",
+      "prompt": "Which of the following is a virtual memory concept?",
+      "options": ["Buffering", "Swapping", "Compaction", "Polling"],
+      "answer": "Swapping",
+      "explanation": "Swapping moves processes or pages between main memory and disk to extend available memory."
+    },
+    {
+      "id": "os-2026",
+      "year": "2026",
+      "prompt": "The primary goal of scheduling is to:",
+      "options": ["Increase energy consumption", "Improve CPU utilization and responsiveness", "Reduce disk size", "Simplify I/O devices"],
+      "answer": "Improve CPU utilization and responsiveness",
+      "explanation": "Scheduling aims to make efficient use of CPU time and provide responsive service."
+    }
+  ]
+}
